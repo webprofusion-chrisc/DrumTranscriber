@@ -37,6 +37,10 @@ streamlit run frontend.py
 ```
 A localhost website will appear with the demo app.
 
+#### Demo UI using Docker
+
+`docker build -t drum-transcriber .`
+`docker run --name drum-transcriber -p 8501:8501 drum-transcriber`
 
 ## Getting Started
 

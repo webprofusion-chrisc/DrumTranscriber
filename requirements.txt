@@ -9,3 +9,4 @@ pandas
 matplotlib
 pytube
 plotly
+pretty_midi
